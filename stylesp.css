@@ -1,0 +1,47 @@
+body {
+  font-family: helvetica, sans-serif;
+  background-color: pink;
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #f8f8ff;
+}
+
+.header {
+  display: block;
+}
+
+nav{
+  display: inline-block;
+  margin: auto;
+  width: 12%;
+  height: 100%;
+  float: left;
+
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  color: #ff5050;
+  text-transform: uppercase;
+  line-height: 5em;
+}
+
+.content {
+  display: inline-block;
+  width: 70%;
+  max-height: 80%;
+  margin: auto;
+  background-color: #f8f8ff;
+  overflow-y: auto;
+}
+
+.footer {
+  color: #f8f8ff;
+  display: block;
+  margin: auto;
+  height: 10%;
+}

@@ -1,0 +1,14 @@
+<!doctype HTML>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="stylesp.css">
+    <title>Josh McGosh Photography</title>
+  </head>
+  <body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="photos.html">Portfolio</a>
+        <a href="about.html">About Me</a>
+        <a href="contact.html">Contact and Booking</a>
+  </body>
+</html>
